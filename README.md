@@ -4,12 +4,12 @@
 🤝 Team-oriented | 📚 Book Lover
 
 🚀 About Me
-🔧 Full-stack developer with experience in both web and mobile application development
-🌐 Skilled in building cross-platform and backend systems
-📱 Capable of developing web and mobile apps from UI/UX to backend
-🤝 Enjoy collaborating in team environments
-📖 Passionate about continuous learning and self-improvement
-🛠️ Tech Stack
+- 🔧 Full-stack developer with experience in both web and mobile application development
+- 🌐 Skilled in building cross-platform and backend systems
+- 📱 Capable of developing web and mobile apps from UI/UX to backend
+- 🤝 Enjoy collaborating in team environments
+- 📖 Passionate about continuous learning and self-improvement
+- 🛠️ Tech Stack
 Frontend: HTML, CSS, JavaScript, React
 Mobile: Flutter, Kotlin (Android), Firebase
 Backend: Java, Spring Boot, Python, Node.js, PHP
